@@ -26,10 +26,6 @@ Sou apaixonado por transformar ideias em códigos limpos, eficientes e escaláve
 
 ---
 
-<!-- GitHub Snake / Pacman Animation -->
-  <p>
-    <img src="/public/assets/img/pacman.svg" alt="GitHub Snake Animation" width="100%" />
-  </p>
 
 ## :rocket: Tecnologias & Ferramentas
 
@@ -103,6 +99,11 @@ Principais tecnologias que utilizo no meu dia a dia para construir aplicações 
   <p><small><code>STATUS: SISTEMA OPERACIONAL // CONEXÃO ESTÁVEL</code></small></p>
 
 </div>
+
+<!-- GitHub Snake / Pacman Animation -->
+  <p>
+    <img src="/public/assets/img/pacman.svg" alt="GitHub Snake Animation" width="100%" />
+  </p>
 ---
 
 ## :handshake: Contato
