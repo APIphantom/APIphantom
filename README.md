@@ -98,7 +98,6 @@ Principais tecnologias que utilizo no meu dia a dia para construir aplicações 
   <p><small><code>STATUS: SISTEMA OPERACIONAL // CONEXÃO ESTÁVEL</code></small></p>
 
 </div>
----
 
 ## :handshake: Contato
 
