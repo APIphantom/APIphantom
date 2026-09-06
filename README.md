@@ -42,43 +42,62 @@ Principais tecnologias que utilizo no meu dia a dia para construir aplicações 
 
 </div>
 
----
-
-## :bar_chart: Estatísticas do GitHub
-
 <div align="center">
-  
-  <!-- Título decorativo -->
-  <p><em>Um resumo da minha atividade open-source</em></p>
-  
-  <!-- Espaçamento -->
+
+  <h3>// DEV_METRICS</h3>
+  <p><em>Arquitetura de sistemas, código e consistência operacional.</em></p>
+
   <br/>
 
-  <!-- GITHUB STATS - Estilo Glassmorphism (Fundo escuro + Efeito Vidro) -->
-  <!-- Ajuste o parâmetro '&theme=' se quiser testar outros estilos, mas o 'transparent' ou 'radical' costumam funcionar bem com o tema escuro -->
-  <a href="https://github.com/APIphantom">
-    <img src="https://github-readme-stats.vercel.app/api?username=api-phantom&show_icons=true&hide_border=false&theme=radical&include_all_commits=true&count_private=true&border_radius=12&locale=pt-br&date_format=j M Y" alt="API Phantom GitHub Stats" width="100%" />
-  </a>
+  <!-- Bloco de Status Geral em Tabela Minimalista -->
+  <table width="100%">
+    <tr>
+      <td align="center" width="33%">
+        <b>COMMITS</b><br/>
+        <code>237+</code>
+      </td>
+      <td align="center" width="33%">
+        <b>PRs MERGED</b><br/>
+        <code>85+</code>
+      </td>
+      <td align="center" width="33%">
+        <b>STREAK ATUAL</b><br/>
+        <code>5 dias</code>
+      </td>
+    </tr>
+  </table>
 
-  <!-- Espaçamento -->
   <br/>
 
-  <!-- TOP LANGUAGES & STREAK - Lado a Lado (Usando porcentagem para responsividade) -->
-  <p>
-    <!-- Top Languages -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=api-phantom&layout=compact&theme=radical&hide_border=true&card_width=490&langs_count=6&border_radius=12&locale=pt-br" alt="Top Languages" width="49%" />
-    
-    <!-- Streak Stats -->
-    <img src="https://streak-stats.demolab.com/?user=api-phantom&theme=radical&hide_border=true&date_format=j%20M%20Y&locale=pt-br&border_radius=12&mode=daily" alt="GitHub Streak" width="49%" />
-  </p>
+  <!-- Top Tecnologias com Barras de Progresso Customizadas -->
+  <table width="100%">
+    <tr>
+      <td align="left">
+        <b>TypeScript / JavaScript</b><br/>
+        <code>████████████████░░░░</code> 75%
+      </td>
+      <td align="left">
+        <b>React / Next.js</b><br/>
+        <code>████████████░░░░░░░░</code> 60%
+      </td>
+    </tr>
+    <tr>
+      <td align="left">
+        <b>TailwindCSS / UI</b><br/>
+        <code>█████████████████░░░</code> 85%
+      </td>
+      <td align="left">
+        <b>Node.js / Supabase</b><br/>
+        <code>██████████░░░░░░░░░░</code> 50%
+      </td>
+    </tr>
+  </table>
+
+  <br/>
   
-  <!-- Pequena nota de rodapé para os cards -->
-  <p align="center">
-    <small><i>Atualizado em tempo real</i></small>
-  </p>
+  <p><small><code>STATUS: SISTEMA OPERACIONAL // CONEXÃO ESTÁVEL</code></small></p>
 
 </div>
-
 ---
 
 ## :handshake: Contato
