@@ -1,157 +1,102 @@
 <div align="center" id="top">
-  <img src="https://profile-readme-generator.com/assets/app.png" width="900" alt="Profile Readme Generator" />
-
-  <a href="https://profile-readme-generator.com">Demo</a>
+  <img src="./public/assets/img/banner (1).png" width="100%" alt="API Phantom" />
 </div>
 
 <div align="center">
-  <h1>Profile Readme Generator</h1>
-  <h3>The best profile readme generator you will find!</h3>
+  <h1>👋 Olá, eu sou o API Phantom</h1>
+  <p><em>Desenvolvedor Front-End & UI/UX Designer | Criando experiências digitais modernas e de alta performance</em></p>
 </div>
 
 <p align="center">
-  <a href="https://github.com/maurodesouza/profile-readme-generator/fork" target="_blank">
-    <img src="https://img.shields.io/github/forks/maurodesouza/profile-readme-generator?" alt="Badge showing the total of project forks"/>
+  <a href="https://apiphantom-portifolio.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐_Portfólio-Acessar_Site-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
   </a>
-
-  <a href="https://github.com/maurodesouza/profile-readme-generator/stargazers" target="_blank">
-    <img src="https://img.shields.io/github/stars/maurodesouza/profile-readme-generator?" alt="Badge showing the total of project stars"/>
-  </a>
-
-  <a href="https://github.com/maurodesouza/profile-readme-generator/commits/main" target="_blank">
-    <img src="https://img.shields.io/github/commit-activity/m/maurodesouza/profile-readme-generator?" alt="Badge showing average commit frequency per month"/>
-  </a>
-
-  <a href="https://github.com/maurodesouza/profile-readme-generator/commits/main" target="_blank">
-    <img src="https://img.shields.io/github/last-commit/maurodesouza/profile-readme-generator?" alt="Badge showing when the last commit was made"/>
-  </a>
-
-  <a href="https://github.com/maurodesouza/profile-readme-generator/issues" target="_blank">
-    <img src="https://img.shields.io/github/issues/maurodesouza/profile-readme-generator?" alt="Badge showing the total of project issues"/>
-  </a>
-
-  <a href="https://github.com/maurodesouza/profile-readme-generator/pulls" target="_blank">
-    <img src="https://img.shields.io/github/issues-pr/maurodesouza/profile-readme-generator?" alt="Badge showing the total of project pull-requests"/>
-  </a>
-
-  <a href="https://github.com/maurodesouza/profile-readme-generator/blob/master/LICENSE.md" target="_blank">
-    <img alt="Badge showing project license type" src="https://img.shields.io/github/license/maurodesouza/profile-readme-generator?color=f85149">
+  <a href="https://github.com/APIphantom">
+    <img src="https://img.shields.io/badge/GitHub-API_Phantom-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
+---
+
+## :dart: Sobre Mim
+
+Seja muito bem-vindo ao meu perfil oficial do GitHub! 🚀 
+
+Sou apaixonado por transformar ideias em códigos limpos, eficientes e escaláveis. Atualmente, foco meus estudos e projetos no desenvolvimento web moderno, unindo engenharia de software de ponta com um design de interface refinado. Você pode conferir meus trabalhos em destaque diretamente no meu [Portfólio Oficial](https://apiphantom-portifolio.vercel.app/). 💡
+
+---
+
+## :rocket: Tecnologias & Ferramentas
+
+Principais tecnologias que utilizo no meu dia a dia para construir aplicações web robustas e intuitivas:
+
+<div align="center">
+
+  <!-- Core / Frontend -->
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css" />
+  
+  <br/><br/>
+
+  <!-- Tools / Backend & Deploy -->
+  <img src="https://skillicons.dev/icons?i=nodejs,git,github,vscode,vercel,figma" />
+
+</div>
+
+---
+
+## :bar_chart: Estatísticas do GitHub
+
+<div align="center">
+  
+  <!-- Título decorativo -->
+  <p><em>Um resumo da minha atividade open-source</em></p>
+  
+  <!-- Espaçamento -->
+  <br/>
+
+  <!-- GITHUB STATS - Estilo Glassmorphism (Fundo escuro + Efeito Vidro) -->
+  <!-- Ajuste o parâmetro '&theme=' se quiser testar outros estilos, mas o 'transparent' ou 'radical' costumam funcionar bem com o tema escuro -->
+  <a href="https://github.com/APIphantom">
+    <img src="https://github-readme-stats.vercel.app/api?username=api-phantom&show_icons=true&hide_border=false&theme=radical&include_all_commits=true&count_private=true&border_radius=12&locale=pt-br&date_format=j M Y" alt="API Phantom GitHub Stats" width="100%" />
+  </a>
+
+  <!-- Espaçamento -->
+  <br/>
+
+  <!-- TOP LANGUAGES & STREAK - Lado a Lado (Usando porcentagem para responsividade) -->
+  <p>
+    <!-- Top Languages -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=api-phantom&layout=compact&theme=radical&hide_border=true&card_width=490&langs_count=6&border_radius=12&locale=pt-br" alt="Top Languages" width="49%" />
+    
+    <!-- Streak Stats -->
+    <img src="https://streak-stats.demolab.com/?user=api-phantom&theme=radical&hide_border=true&date_format=j%20M%20Y&locale=pt-br&border_radius=12&mode=daily" alt="GitHub Streak" width="49%" />
+  </p>
+  
+  <!-- Pequena nota de rodapé para os cards -->
+  <p align="center">
+    <small><i>Atualizado em tempo real</i></small>
+  </p>
+
+</div>
+
+---
+
+## :handshake: Contato
+
+Se precisar entrar em contato comigo ou responder a uma mensagem profissional, estarei sempre à disposição nos contatos abaixo!!!
 
 <p align="center">
-  <a href="#dart-about">About</a> &#xa0; | &#xa0;
-  <a href="#rocket-main-technologies">Technologies</a> &#xa0; | &#xa0;
-  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
-  <a href="https://github.com/maurodesouza/profile-readme-generator/blob/main/.github/CONTRIBUTING.md">Contributing</a>
+  <a href="https://apiphantom-portifolio.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐_Portfólio-Acessar_Site-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
+  </a>
+  <a href="https://www.linkedin.com/in/adrianoolivera04/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/adriano_designweb/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </p>
 
-## :dart: About ##
-
-Are you tired of manually editing your GitHub profile or missing out on the amazing features you can add to it? 😩 Configuring GitHub actions can also be a hassle, right? Say no more! 💪
-
-**Introducing a tool that lets you beautify your GitHub profile with a customized README, easily and in no time!** ✨ You can include whatever content you want, wherever you want it (*within the limitations of markdown, of course*). 📝
-
-**With this amazing tool, creating your own README has never been so simple and fast.** ⚡ You can save time and focus on what really matters - showcasing your skills and projects. 🚀
-
-**Don't miss out on the opportunity to enhance your GitHub profile.** Give it a try and see for yourself how easy and convenient it is! 😉
-
-
-<p align="center">
-<i>Loved the tool? Please consider <a href="https://www.paypal.com/donate/?hosted_button_id=FR3A2DGVYKGJS">donating 💸</a> to support its continuous<br/> improvement and development!</i>
-</p>
-
-https://user-images.githubusercontent.com/54520907/173442002-dafc63ea-321f-4ce2-b349-be490b3a00ff.mp4
-
-## :rocket: Main Technologies ##
-
-<a href="https://nextjs.org">
-  <img width="50" title="NextJs" alt="Next Logo" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/assets/next-logo.svg">
-</a> &#xa0; &#xa0;
-
-<a href="https://www.typescriptlang.org">
-  <img width="50" title="Typescript" alt="Typescript Logo" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/assets/typescript-logo.svg">
-</a> &#xa0; &#xa0;
-
-<a href="https://tailwindcss.com">
-  <img width="50" title="Styled Components" alt="Styled Components Logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png">
-</a> &#xa0; &#xa0;
-
-<a href="https://jestjs.io">
-  <img width="50" title="Jest" alt="Jest Logo" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/assets/jest-logo.svg">
-</a> &#xa0; &#xa0;
-
-<a href="https://eslint.org">
-  <img  width="50" title="Eslint" alt="Eslint Logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png">
-</a> &#xa0; &#xa0;
-
-<a href="https://prettier.io">
-  <img width="50" title="Prettier" alt="Prettier Logo" src="https://prettier.io/icon.png">
-</a>
-
-###
-
-<details>
-  <summary>See more</summary>
-
-  ###
-
-  * [Shadcn](https://ui.shadcn.com)
-  * [Radix](https://www.radix-ui.com)
-  * [Lucid Icons](https://lucide.dev)
-  * [clsx](https://github.com/lukeed/clsx#readme)
-  * [Tailwind Merge](https://github.com/dcastil/tailwind-merge#readme)
-  * [Tailwind Variants](https://www.tailwind-variants.org)
-  * [Framer Motion](https://framer.com/motion/)
-  * [Prismjs](https://prismjs.com)
-  * [HTML Prettify](https://github.com/Dmc0125/html-prettify#readme)
-  * [React Share](https://github.com/nygardk/react-share)
-  * [React Markdown](https://github.com/remarkjs/react-markdown#readme)
-  * [UUID](https://github.com/uuidjs/uuid#readme)
-
-</details>
-
-## :white_check_mark: Requirements ##
-
-Before starting :checkered_flag:, make sure you have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed on your system. ([nvm](https://github.com/nvm-sh/nvm#node-version-manager---) recommended).
-
-## :checkered_flag: Starting ##
-
-```bash
-# Clone this project
-$ git clone https://github.com/maurodesouza/profile-readme-generator
-
-# Access
-$ cd profile-readme-generator
-
-# Install dependencies
-$ yarn
-
-# Run the project
-$ yarn dev
-
-# The server will initialize in the <http://localhost:3000>
-```
-
-## :video_game: Scripts
-
-- `dev`: starts the application at `localhost:3000`;
-- `build`: creates an optimized production build of the application;
-- `start`: starts the application in production mode at localhost:3000 (make sure to run the build first);
-- `test`: runs the tests;
-- `lint`: runs eslint in the /src directory.
-
-## :memo: License ##
-
-This project is licensed under the MIT License. For more details, please refer to the [LICENSE](LICENSE.md) file.
-
-
-Made with :heart: by <a href="https://github.com/maurodesouza" target="_blank">Mauro de Souza</a>
-
-&#xa0;
-
-<a href="#top">Back to top</a>
-
-*Readme created with [Simple Readme](https://marketplace.visualstudio.com/items?itemName=maurodesouza.vscode-simple-readme)*
+<div align="center">
+  <i>Feito com :heart: por <strong>API Phantom</strong></i>
+</div>
