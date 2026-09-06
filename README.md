@@ -43,10 +43,9 @@ Principais tecnologias que utilizo no meu dia a dia para construir aplicações 
 
 </div>
 
-<div align="center">
-
-  <h3>// DEV_METRICS</h3>
+ ## :construction: DEV_METRICS
   <p><em>Arquitetura de sistemas, código e consistência operacional.</em></p>
+<div align="center">
 
   <br/>
 
